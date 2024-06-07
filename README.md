@@ -1,0 +1,2 @@
+# HospitalManagementDB
+MySql database
